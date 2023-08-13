@@ -1,0 +1,25 @@
+.statistics {
+    font-weight: 600;
+    font-size: 30px;
+    color: #311b92;
+    margin-right: 10px;
+  }
+  
+  .bad {
+    color: red;
+  }
+  
+  .neutral {
+    color: gray;
+  }
+  
+  .good {
+    color: green;
+  }
+  
+  .statisticsList {
+    justify-content: space-between;
+    display: flex;
+    list-style: none;
+    padding-bottom: 30px;
+  }
